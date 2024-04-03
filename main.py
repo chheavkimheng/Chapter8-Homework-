@@ -17,5 +17,4 @@ def generate_report():
             - 'most_professional_operating_system': A dictionary containing the count of developers based on the most wanted operating system.
             - 'popular_industry': A dictionary containing the count of developers based on the top three industries they work in.
     '''
-    print("Hello world")
     pass
